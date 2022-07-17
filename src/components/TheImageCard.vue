@@ -52,6 +52,7 @@ defineProps({
   cursor: move;
   padding: 2px;
   border: 1px solid var(--color-body);
+  height: max-content;
 }
 
 figcaption {

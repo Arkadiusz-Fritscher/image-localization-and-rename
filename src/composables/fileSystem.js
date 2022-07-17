@@ -120,7 +120,16 @@ export default function useFileSystem() {
     });
 
     zip.generateAsync({ type: "blob" }).then(function (content) {
-      saveAs(content, "Sortierte-Bilder.zip");
+      saveAs(
+        content,
+        `Sortierte-Bilder-${new Date()
+          .toLocaleString("de-DE", {
+            day: "2-digit",
+            month: "2-digit",
+            year: "2-digit",
+          })
+          .replace(/\./g, "-")}.zip`
+      );
     });
   }
 
