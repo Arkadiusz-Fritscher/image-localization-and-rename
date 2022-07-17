@@ -1,0 +1,16 @@
+:root {
+  --color-white: hsl(230, 10%, 96%);
+  --color-body: hsl(230, 10%, 5%);
+  --color-gray-50: hsl(230, 10%, 93%);
+  --color-gray-100: hsl(230, 10%, 90%);
+  --color-gray-200: hsl(230, 10%, 70%);
+  --color-gray-300: hsl(230, 10%, 40%);
+  --color-gray-400: hsl(230, 10%, 20%);
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-md: 1.3rem;
+  --text-lg: 2rem;
+  --text-xl: 3rem;
+}

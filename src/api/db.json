@@ -1,0 +1,3668 @@
+[
+  {
+    "id": 2,
+    "barcode": "S332",
+    "type": "Armaturenschacht",
+    "location": "Anne-Frank-Str.",
+    "gps": {
+      "id": 2,
+      "lng": 8.206729535530933,
+      "lat": 50.083109826277806
+    },
+    "description": "FW-Leitung Richtung Schule Kabelüberwacht. HDW",
+    "lovion_id": 4347
+  },
+  {
+    "id": 3,
+    "barcode": "S331",
+    "type": "Armaturenschacht",
+    "location": "Anne-Frank-Str.",
+    "gps": {
+      "id": 3,
+      "lng": 8.206615953772975,
+      "lat": 50.083660584751485
+    },
+    "description": "Entlüftung (DN25 /PN40 ) im Lovion nicht erfasst",
+    "lovion_id": 4387
+  },
+  {
+    "id": 4,
+    "barcode": "S015",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 4,
+      "lng": 8.205507393416523,
+      "lat": 50.08648574050954
+    },
+    "description": "Entlüftung/Entleerung nicht im Lovion erfasst. Im Schacht ist ein Kanalanschluß",
+    "lovion_id": 4447
+  },
+  {
+    "id": 5,
+    "barcode": "S014",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 5,
+      "lng": 8.205389676621222,
+      "lat": 50.08696607262889
+    },
+    "description": "Schacht soll Saniert werden. Leitung liegt auf Betonsockel, ist sein ca. 2013 Bekannt.",
+    "lovion_id": 4454
+  },
+  {
+    "id": 6,
+    "barcode": "S013",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 6,
+      "lng": 8.20535286585118,
+      "lat": 50.0871087904009
+    },
+    "description": "Vor Wartungsarbeiten muss die Straßenverkehrsbehörde Angeschrieben werden und das Schreiben Mitgeführt werden.",
+    "lovion_id": 4458
+  },
+  {
+    "id": 7,
+    "barcode": "R001",
+    "type": "Armaturenschacht",
+    "location": "Heinz-Ranly-Str.",
+    "gps": {
+      "id": 7,
+      "lng": 8.205543212129077,
+      "lat": 50.08713359465703
+    },
+    "description": "Schacht liegt im Einfahrtsbereich der Heinz-Ranly-Str. Für den Zugang  muss eine Fahrbahn gesperrt werde.",
+    "lovion_id": 4468
+  },
+  {
+    "id": 8,
+    "barcode": "S010",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 8,
+      "lng": 8.20497460767542,
+      "lat": 50.08837518730152
+    },
+    "description": "",
+    "lovion_id": 4494
+  },
+  {
+    "id": 9,
+    "barcode": "N383",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 9,
+      "lng": 8.204731454766657,
+      "lat": 50.08870066312832
+    },
+    "description": "Im Feb. 2017 wurde eine HACA Steigleiter mit Einstiegshilfe Montiert.",
+    "lovion_id": 4512
+  },
+  {
+    "id": 10,
+    "barcode": "N382a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 10,
+      "lng": 8.204662563061946,
+      "lat": 50.08869863071378
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4516
+  },
+  {
+    "id": 11,
+    "barcode": "N385b",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 11,
+      "lng": 8.20491363016624,
+      "lat": 50.0887228671042
+    },
+    "description": "Schacht ist nicht auffindbar. Schacht ist überbetoniert",
+    "lovion_id": 4523
+  },
+  {
+    "id": 12,
+    "barcode": "N382",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 12,
+      "lng": 8.204622534179569,
+      "lat": 50.088866644472105
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4530
+  },
+  {
+    "id": 13,
+    "barcode": "N331",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 13,
+      "lng": 8.204608985609969,
+      "lat": 50.08892211699557
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4540
+  },
+  {
+    "id": 14,
+    "barcode": "N330",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 14,
+      "lng": 8.204345184500736,
+      "lat": 50.08889648403975
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4547
+  },
+  {
+    "id": 15,
+    "barcode": "N381",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 15,
+      "lng": 8.20391801999461,
+      "lat": 50.088855663658094
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4557
+  },
+  {
+    "id": 16,
+    "barcode": "N319",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 16,
+      "lng": 8.203821000197602,
+      "lat": 50.08887269415931
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4561
+  },
+  {
+    "id": 17,
+    "barcode": "N380",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 17,
+      "lng": 8.203798203739025,
+      "lat": 50.088968639429275
+    },
+    "description": "",
+    "lovion_id": 4571
+  },
+  {
+    "id": 18,
+    "barcode": "N318",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 18,
+      "lng": 8.203691282784487,
+      "lat": 50.08895888054275
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4578
+  },
+  {
+    "id": 19,
+    "barcode": "N312",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 19,
+      "lng": 8.203646215895995,
+      "lat": 50.089135857972074
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4588
+  },
+  {
+    "id": 20,
+    "barcode": "N367",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 20,
+      "lng": 8.203588032695794,
+      "lat": 50.08939990690434
+    },
+    "description": "Schachtdeckel 845mm. Der Gußring des Schachtdeckel ist zum teil lose und gebrochen. Der komplette Schachtdeckel mit Einstiegsleiter sollte erneuert werden.",
+    "lovion_id": 4595
+  },
+  {
+    "id": 21,
+    "barcode": "N368",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 21,
+      "lng": 8.20403474223329,
+      "lat": 50.08944681656542
+    },
+    "description": "",
+    "lovion_id": 4609
+  },
+  {
+    "id": 22,
+    "barcode": "N369",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 22,
+      "lng": 8.203937010801933,
+      "lat": 50.08985145956287
+    },
+    "description": "Ratte wohnt im Schacht, Schacht voll mit Kot.",
+    "lovion_id": 4626
+  },
+  {
+    "id": 23,
+    "barcode": "N369a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 23,
+      "lng": 8.20390584299805,
+      "lat": 50.08998394428994
+    },
+    "description": "Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4636
+  },
+  {
+    "id": 24,
+    "barcode": "N370",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 24,
+      "lng": 8.204154576394586,
+      "lat": 50.09000850807541
+    },
+    "description": "",
+    "lovion_id": 4643
+  },
+  {
+    "id": 25,
+    "barcode": "N370a",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 25,
+      "lng": 8.204448025648658,
+      "lat": 50.09003425917443
+    },
+    "description": "Schacht liegt in der Hecke, ist zugefuchert nicht auffindbar.",
+    "lovion_id": 4650
+  },
+  {
+    "id": 26,
+    "barcode": "N3302",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 26,
+      "lng": 8.205393849154564,
+      "lat": 50.089875668594054
+    },
+    "description": "Zugang zum Schacht Gartentür Konrad-Arndt-Str. 36, über Eheleute Häuser Tel.: 46 02 28",
+    "lovion_id": 4657
+  },
+  {
+    "id": 27,
+    "barcode": "N366",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 27,
+      "lng": 8.203111121863264,
+      "lat": 50.0894743475329
+    },
+    "description": "",
+    "lovion_id": 4680
+  },
+  {
+    "id": 28,
+    "barcode": "N317",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 28,
+      "lng": 8.203181657729449,
+      "lat": 50.08918632898814
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4687
+  },
+  {
+    "id": 29,
+    "barcode": "N363",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 29,
+      "lng": 8.202919384038985,
+      "lat": 50.089605855638496
+    },
+    "description": "Über den Kanalanschluss haben Ratten Zugang zm Schachtsystem. Rattenkot und tote Ratten liegen im Schacht",
+    "lovion_id": 4704
+  },
+  {
+    "id": 30,
+    "barcode": "N364",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 30,
+      "lng": 8.202546781353528,
+      "lat": 50.08955550235587
+    },
+    "description": "Fliegenpils auf dem Spielplatz",
+    "lovion_id": 4711
+  },
+  {
+    "id": 31,
+    "barcode": "N365",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 31,
+      "lng": 8.202089324842472,
+      "lat": 50.089501259390644
+    },
+    "description": "",
+    "lovion_id": 4721
+  },
+  {
+    "id": 32,
+    "barcode": "N362",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 32,
+      "lng": 8.202868300250262,
+      "lat": 50.08981962214505
+    },
+    "description": "",
+    "lovion_id": 4731
+  },
+  {
+    "id": 33,
+    "barcode": "N361",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 33,
+      "lng": 8.202822145566953,
+      "lat": 50.09000800523748
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4744
+  },
+  {
+    "id": 34,
+    "barcode": "N360a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 34,
+      "lng": 8.202752196839013,
+      "lat": 50.09000132349693
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar.",
+    "lovion_id": 4748
+  },
+  {
+    "id": 35,
+    "barcode": "N360",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 35,
+      "lng": 8.202714140544094,
+      "lat": 50.09015698328125
+    },
+    "description": "Isolierung des VL löst sich auf",
+    "lovion_id": 4755
+  },
+  {
+    "id": 36,
+    "barcode": "N359",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 36,
+      "lng": 8.202691518325013,
+      "lat": 50.090250680998835
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4766
+  },
+  {
+    "id": 37,
+    "barcode": "N358",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 37,
+      "lng": 8.202872898070867,
+      "lat": 50.09027268932465
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar.",
+    "lovion_id": 4770
+  },
+  {
+    "id": 38,
+    "barcode": "N342",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 38,
+      "lng": 8.202825181680963,
+      "lat": 50.09047091468052
+    },
+    "description": "",
+    "lovion_id": 4780
+  },
+  {
+    "id": 39,
+    "barcode": "N343",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 39,
+      "lng": 8.202796423347145,
+      "lat": 50.090614689708524
+    },
+    "description": "Schachtdeckel defekt 615.  Aufstellen eines Dreibocks nicht möglich. Schachtdeckelösen sind abgerostet",
+    "lovion_id": 4790
+  },
+  {
+    "id": 40,
+    "barcode": "N344",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 40,
+      "lng": 8.203162742544562,
+      "lat": 50.090652034091065
+    },
+    "description": "Entleerungen in Lovion nicht erfasst",
+    "lovion_id": 4797
+  },
+  {
+    "id": 41,
+    "barcode": "N316",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 41,
+      "lng": 8.20338092000829,
+      "lat": 50.090673997374665
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar.",
+    "lovion_id": 4804
+  },
+  {
+    "id": 42,
+    "barcode": "N315",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 42,
+      "lng": 8.203408252554842,
+      "lat": 50.0905621548463
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4808
+  },
+  {
+    "id": 43,
+    "barcode": "N349",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 43,
+      "lng": 8.203458829547081,
+      "lat": 50.0903556743453
+    },
+    "description": "",
+    "lovion_id": 4822
+  },
+  {
+    "id": 44,
+    "barcode": "N314",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 44,
+      "lng": 8.20364211992475,
+      "lat": 50.090376318484296
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar.",
+    "lovion_id": 4826
+  },
+  {
+    "id": 45,
+    "barcode": "N313",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 45,
+      "lng": 8.203664239588548,
+      "lat": 50.090276564133845
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4830
+  },
+  {
+    "id": 46,
+    "barcode": "N345",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 46,
+      "lng": 8.203128032338977,
+      "lat": 50.09083105205986
+    },
+    "description": "Schachtdeckel 665mm, VL Heizwerk Entleerung und RL Heizwerk Entlüftung und Bypass (Heizwerk) Fehlen",
+    "lovion_id": 4846
+  },
+  {
+    "id": 47,
+    "barcode": "N346",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 47,
+      "lng": 8.20309997236022,
+      "lat": 50.09096521279416
+    },
+    "description": "Kontrollschacht ist nicht mehr auffindbar.",
+    "lovion_id": 4856
+  },
+  {
+    "id": 48,
+    "barcode": "N346a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 48,
+      "lng": 8.203347689672675,
+      "lat": 50.090989789308445
+    },
+    "description": "Sand zwischen Rohrleitung eingeschwämmt (siehe Bild )",
+    "lovion_id": 4863
+  },
+  {
+    "id": 49,
+    "barcode": "N346b",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 49,
+      "lng": 8.203664209278722,
+      "lat": 50.09102031913263
+    },
+    "description": "Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4870
+  },
+  {
+    "id": 50,
+    "barcode": "N347",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 50,
+      "lng": 8.203843582580053,
+      "lat": 50.09083076277955
+    },
+    "description": "Hecke höhe O.-Wels-Str. 68, neben dem Bürgersteig.",
+    "lovion_id": 4877
+  },
+  {
+    "id": 51,
+    "barcode": "N3200",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 51,
+      "lng": 8.204060874289375,
+      "lat": 50.09090795575466
+    },
+    "description": "Zugang über, H.-Buttersack-Str. 12, Herr Türck Tel.: 18 46 507, vorher Anrufen und die Gartentür öffnen lassen.",
+    "lovion_id": 4884
+  },
+  {
+    "id": 52,
+    "barcode": "N341",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 52,
+      "lng": 8.202386756439866,
+      "lat": 50.090427218720485
+    },
+    "description": "",
+    "lovion_id": 4900
+  },
+  {
+    "id": 53,
+    "barcode": "N340",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 53,
+      "lng": 8.202408194088353,
+      "lat": 50.09033586487374
+    },
+    "description": "Schacht ist nicht auffindbar.",
+    "lovion_id": 4907
+  },
+  {
+    "id": 54,
+    "barcode": "N339",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 54,
+      "lng": 8.202159826723793,
+      "lat": 50.09030899288685
+    },
+    "description": "",
+    "lovion_id": 4914
+  },
+  {
+    "id": 55,
+    "barcode": "N338",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 55,
+      "lng": 8.202114911367406,
+      "lat": 50.09049073759149
+    },
+    "description": "Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4921
+  },
+  {
+    "id": 56,
+    "barcode": "N337",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 56,
+      "lng": 8.202012059890993,
+      "lat": 50.090921413043525
+    },
+    "description": "Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 4931
+  },
+  {
+    "id": 57,
+    "barcode": "N320",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 57,
+      "lng": 8.201925911630441,
+      "lat": 50.09091866678851
+    },
+    "description": "Schachtdeckel 845mm, die Fassung des Deckel ist an mehreren Stellen gebrochen, muss erneuert werden.",
+    "lovion_id": 4938
+  },
+  {
+    "id": 58,
+    "barcode": "N322",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 58,
+      "lng": 8.202032095253204,
+      "lat": 50.09126645065934
+    },
+    "description": "Im Schauloch steht Wasser, ca. 5 cm hoch",
+    "lovion_id": 4948
+  },
+  {
+    "id": 59,
+    "barcode": "N323",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 59,
+      "lng": 8.201954802892324,
+      "lat": 50.09158861741222
+    },
+    "description": "",
+    "lovion_id": 4955
+  },
+  {
+    "id": 60,
+    "barcode": "N324",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 60,
+      "lng": 8.202339806462417,
+      "lat": 50.091668490824055
+    },
+    "description": "Entlüftung und Entleerung nicht im Lovion erfasst",
+    "lovion_id": 4959
+  },
+  {
+    "id": 61,
+    "barcode": "N326a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 61,
+      "lng": 8.20236256826552,
+      "lat": 50.092086938622614
+    },
+    "description": "Schauloch",
+    "lovion_id": 4983
+  },
+  {
+    "id": 62,
+    "barcode": "N327",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 62,
+      "lng": 8.202543501960378,
+      "lat": 50.09210759077123
+    },
+    "description": "Schauloch",
+    "lovion_id": 4990
+  },
+  {
+    "id": 63,
+    "barcode": "N328",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 63,
+      "lng": 8.202382607084461,
+      "lat": 50.0925342700986
+    },
+    "description": "Seitlich in Hecke, Parkplatz O.-Wels-Str. 120.",
+    "lovion_id": 4997
+  },
+  {
+    "id": 64,
+    "barcode": "N3100",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 64,
+      "lng": 8.202596719454009,
+      "lat": 50.09260960465231
+    },
+    "description": "Schacht nicht auffindbar.",
+    "lovion_id": 5004
+  },
+  {
+    "id": 65,
+    "barcode": "N3101",
+    "type": "Armaturenschacht",
+    "location": "Moriz-Marxheimer-Str.",
+    "gps": {
+      "id": 65,
+      "lng": 8.202755583508202,
+      "lat": 50.092666274499514
+    },
+    "description": "",
+    "lovion_id": 5011
+  },
+  {
+    "id": 66,
+    "barcode": "N300a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 66,
+      "lng": 8.2012420080087,
+      "lat": 50.09105536811561
+    },
+    "description": "Schacht liegt unter einer Schicht Kieselstein. Blickrichtung Heizwerk, am ende der Rutsche ca. 1,80m in Richtung Heizewerk.",
+    "lovion_id": 5031
+  },
+  {
+    "id": 67,
+    "barcode": "N304",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 67,
+      "lng": 8.200896466662224,
+      "lat": 50.092503971126774
+    },
+    "description": "2005 wurden alle Armaturen erneuert. zum teil neu Eingeschweißt. Öffnungsstege stark verrostet aber noch vorhanden.",
+    "lovion_id": 5052
+  },
+  {
+    "id": 68,
+    "barcode": "N305",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 68,
+      "lng": 8.201521849215975,
+      "lat": 50.09256831387428
+    },
+    "description": "Die Ösen des Schachtdeckel sind verrostet. Aufstellen eines Dreibocks nicht möglich, Hanglage",
+    "lovion_id": 5059
+  },
+  {
+    "id": 69,
+    "barcode": "N306",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 69,
+      "lng": 8.20165832127738,
+      "lat": 50.09257917285938
+    },
+    "description": "Entleerung und Entlüftungen sind nicht im Lovion erfasst.",
+    "lovion_id": 5063
+  },
+  {
+    "id": 70,
+    "barcode": "N306a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 70,
+      "lng": 8.201686994276288,
+      "lat": 50.09245932626962
+    },
+    "description": "Schacht nicht auffindbar",
+    "lovion_id": 5070
+  },
+  {
+    "id": 71,
+    "barcode": "N306b",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 71,
+      "lng": 8.20182298413937,
+      "lat": 50.092473527537535
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 5074
+  },
+  {
+    "id": 72,
+    "barcode": "N307",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 72,
+      "lng": 8.201844281659339,
+      "lat": 50.09237011182071
+    },
+    "description": "Im Schacht sind zwei Schlammtöpfe mit Pruss Entleerventilen DN 20 und Entlüftungen",
+    "lovion_id": 5084
+  },
+  {
+    "id": 73,
+    "barcode": "N307a",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 73,
+      "lng": 8.201642453988958,
+      "lat": 50.092652761096396
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 5094
+  },
+  {
+    "id": 74,
+    "barcode": "N307b",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 74,
+      "lng": 8.201611827582582,
+      "lat": 50.09277614689296
+    },
+    "description": "Schauloch. Nach Umgestaltung der Außenanlagen, durch die Wohnungsgesellschaften, sind die Objekte zum Teil nicht mehr auffindbar",
+    "lovion_id": 5104
+  },
+  {
+    "id": 75,
+    "barcode": "N308",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 75,
+      "lng": 8.201479125807673,
+      "lat": 50.09276342053687
+    },
+    "description": "Schauloch.",
+    "lovion_id": 5111
+  },
+  {
+    "id": 76,
+    "barcode": "N309",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 76,
+      "lng": 8.201428508733601,
+      "lat": 50.09296995829926
+    },
+    "description": "Schacht ist nicht auffindbar.",
+    "lovion_id": 5121
+  },
+  {
+    "id": 77,
+    "barcode": "S229",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 77,
+      "lng": 8.204172824199555,
+      "lat": 50.083513250223305
+    },
+    "description": "",
+    "lovion_id": 5128
+  },
+  {
+    "id": 78,
+    "barcode": "N200a",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 78,
+      "lng": 8.200173844763682,
+      "lat": 50.09123984847073
+    },
+    "description": "Entlüftungen nicht im Lovion erfasst.  Der Notanschluss an die FW-Leitung Netz 3 wurde 2005 demontiert. Die alten FW-Leitungen liegen Richtung Schacht N 301 noch im Kanal,",
+    "lovion_id": 5151
+  },
+  {
+    "id": 79,
+    "barcode": "N201a",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 79,
+      "lng": 8.200179123671637,
+      "lat": 50.09137456646949
+    },
+    "description": "",
+    "lovion_id": 5168
+  },
+  {
+    "id": 80,
+    "barcode": "N203a",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 80,
+      "lng": 8.199878521938206,
+      "lat": 50.09207394674612
+    },
+    "description": "",
+    "lovion_id": 5178
+  },
+  {
+    "id": 81,
+    "barcode": "N204a",
+    "type": "Kontrollschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 81,
+      "lng": 8.199828424114584,
+      "lat": 50.09242019671664
+    },
+    "description": "Entüftungen und Entleerungen nicht im Lovion erfasst",
+    "lovion_id": 5185
+  },
+  {
+    "id": 82,
+    "barcode": "N205a",
+    "type": "Kontrollschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 82,
+      "lng": 8.199504918081976,
+      "lat": 50.0924691697717
+    },
+    "description": "Schacht liegt in der Hecke, neben der Bushaltestelle.",
+    "lovion_id": 5195
+  },
+  {
+    "id": 83,
+    "barcode": "N207a",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 83,
+      "lng": 8.1989644559917,
+      "lat": 50.09244009671135
+    },
+    "description": "Dreibock aufstellen nicht möglich. Es ist ein Klappdeckel aus dem Wasser Bereich montiert, es muss eine neue Einstiegsleiter montiert werden. Lecküberwachung nur Richtung G.v.Galen-Str. 49-52. Kabel ist gebrückt.",
+    "lovion_id": 5208
+  },
+  {
+    "id": 84,
+    "barcode": "N215a",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 84,
+      "lng": 8.198977188641914,
+      "lat": 50.09238999318816
+    },
+    "description": "Schauloch liegt vor der Garage, Graf-von-Galen-Str. 46/52.",
+    "lovion_id": 5226
+  },
+  {
+    "id": 85,
+    "barcode": "N218a",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 85,
+      "lng": 8.19831442217925,
+      "lat": 50.09210018068859
+    },
+    "description": "Der Schacht hat ein Kanalanschluss.",
+    "lovion_id": 5233
+  },
+  {
+    "id": 86,
+    "barcode": "V002",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 86,
+      "lng": 8.19976634335946,
+      "lat": 50.09159714471184
+    },
+    "description": "Schacht liegt neben Wertstoffcontainern. Die FW-Leitungen liegen zum teil auf Vierkanthölzern auf, der Schachtboden ist trocken.",
+    "lovion_id": 5300
+  },
+  {
+    "id": 87,
+    "barcode": "V005",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 87,
+      "lng": 8.199059650365161,
+      "lat": 50.091830695091275
+    },
+    "description": "",
+    "lovion_id": 5307
+  },
+  {
+    "id": 88,
+    "barcode": "V006",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 88,
+      "lng": 8.199025529871383,
+      "lat": 50.09191298023596
+    },
+    "description": "",
+    "lovion_id": 5311
+  },
+  {
+    "id": 89,
+    "barcode": "V007",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 89,
+      "lng": 8.198357058106621,
+      "lat": 50.091849459737844
+    },
+    "description": "",
+    "lovion_id": 5321
+  },
+  {
+    "id": 90,
+    "barcode": "N204b",
+    "type": "Kontrollschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 90,
+      "lng": 8.198372472658475,
+      "lat": 50.09115510288402
+    },
+    "description": "",
+    "lovion_id": 5328
+  },
+  {
+    "id": 91,
+    "barcode": "N206b",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 91,
+      "lng": 8.198024128399979,
+      "lat": 50.091126330975456
+    },
+    "description": "",
+    "lovion_id": 5338
+  },
+  {
+    "id": 92,
+    "barcode": "N214b",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 92,
+      "lng": 8.198053679003738,
+      "lat": 50.09037723039276
+    },
+    "description": "Im Schacht ist ein Kurzschlußventil DN50?, Ventil ist zu. Zugang mit Schlüssel nr. 18 Altenwohnanlage Bypass ist im Lovion nichtf erfasst",
+    "lovion_id": 5348
+  },
+  {
+    "id": 93,
+    "barcode": "N215b",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 93,
+      "lng": 8.197593800372513,
+      "lat": 50.09032805712724
+    },
+    "description": "Im Kanal sind die Netz 1 und Netz 2b FW-Leitungen. In der Netz 1 Leitung sind 2 Brus Entleer Ventile eingebaut.",
+    "lovion_id": 5358
+  },
+  {
+    "id": 94,
+    "barcode": "N106",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 94,
+      "lng": 8.196918247146247,
+      "lat": 50.09084318462977
+    },
+    "description": "",
+    "lovion_id": 5365
+  },
+  {
+    "id": 95,
+    "barcode": "N104",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 95,
+      "lng": 8.196772538400833,
+      "lat": 50.0914910490603
+    },
+    "description": "",
+    "lovion_id": 5385
+  },
+  {
+    "id": 96,
+    "barcode": "N130",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 96,
+      "lng": 8.196277980029176,
+      "lat": 50.09154339853042
+    },
+    "description": "",
+    "lovion_id": 5396
+  },
+  {
+    "id": 97,
+    "barcode": "N112",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 97,
+      "lng": 8.196198202712836,
+      "lat": 50.09077196922156
+    },
+    "description": "Entlüftungen sind nicht im Lovion erfasst.",
+    "lovion_id": 5434
+  },
+  {
+    "id": 98,
+    "barcode": "N113",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 98,
+      "lng": 8.196256051302685,
+      "lat": 50.09056305528788
+    },
+    "description": "",
+    "lovion_id": 5441
+  },
+  {
+    "id": 99,
+    "barcode": "N115",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 99,
+      "lng": 8.195599897511755,
+      "lat": 50.09014124895989
+    },
+    "description": "Entlüftungen N115 HeBr6 nicht erfasst",
+    "lovion_id": 5451
+  },
+  {
+    "id": 100,
+    "barcode": "N121",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 100,
+      "lng": 8.194799243787791,
+      "lat": 50.090362470567705
+    },
+    "description": "Schachtdeckel wurde 2021 saniert. Schachtboden ist feucht",
+    "lovion_id": 5468
+  },
+  {
+    "id": 101,
+    "barcode": "N386",
+    "type": "Schauloch",
+    "location": "Konrad-Arndt-Str.",
+    "gps": {
+      "id": 101,
+      "lng": 8.204867095842097,
+      "lat": 50.08895586799312
+    },
+    "description": "Schauloch liegt in einer Hecke.",
+    "lovion_id": 5481
+  },
+  {
+    "id": 102,
+    "barcode": "N3018",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 102,
+      "lng": 8.202124516010658,
+      "lat": 50.09310996941054
+    },
+    "description": "Schachtdeckel ist von Nadelbaum überwachsen",
+    "lovion_id": 5498
+  },
+  {
+    "id": 103,
+    "barcode": "N3017",
+    "type": "Armaturenschacht",
+    "location": "Eugen-Dengel-Str.",
+    "gps": {
+      "id": 103,
+      "lng": 8.201757510809085,
+      "lat": 50.09386768761535
+    },
+    "description": "Entleerungsschacht Zwei mal Entleerung Gekos-Kugelhahn, Bypass zwischen VL und RL, Dreibein stellen nicht möglich",
+    "lovion_id": 5514
+  },
+  {
+    "id": 104,
+    "barcode": "N3000",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 104,
+      "lng": 8.20057750296395,
+      "lat": 50.09340132989568
+    },
+    "description": "Der neue Besitzer hat einen Carport gebaut, der Schacht liegt jetzt frei Zugängig.",
+    "lovion_id": 5524
+  },
+  {
+    "id": 105,
+    "barcode": "N311",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 105,
+      "lng": 8.200587820751357,
+      "lat": 50.09318999551213
+    },
+    "description": "",
+    "lovion_id": 5538
+  },
+  {
+    "id": 106,
+    "barcode": "N3010",
+    "type": "Schauloch",
+    "location": "Paul-Lazarus-Str.",
+    "gps": {
+      "id": 106,
+      "lng": 8.199908341434922,
+      "lat": 50.09373091261391
+    },
+    "description": "Schauloch",
+    "lovion_id": 5554
+  },
+  {
+    "id": 107,
+    "barcode": "N3011",
+    "type": "Kontrollschacht",
+    "location": "Paul-Lazarus-Str.",
+    "gps": {
+      "id": 107,
+      "lng": 8.199729099253423,
+      "lat": 50.0937036753865
+    },
+    "description": "Im Schacht sind verschiedene Moniereisen sichtbar. (Decke Wände)",
+    "lovion_id": 5567
+  },
+  {
+    "id": 108,
+    "barcode": "N218c",
+    "type": "Kontrollschacht",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 108,
+      "lng": 8.200893256485497,
+      "lat": 50.08908682911953
+    },
+    "description": "",
+    "lovion_id": 5586
+  },
+  {
+    "id": 109,
+    "barcode": "N219c",
+    "type": "Schauloch",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 109,
+      "lng": 8.200739333133956,
+      "lat": 50.0891067077129
+    },
+    "description": "",
+    "lovion_id": 5593
+  },
+  {
+    "id": 110,
+    "barcode": "N222c",
+    "type": "Armaturenschacht",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 110,
+      "lng": 8.200523832151054,
+      "lat": 50.08883529388564
+    },
+    "description": "Leckageüberwachung nur Richtung Goerdeler-Str 43.",
+    "lovion_id": 5600
+  },
+  {
+    "id": 111,
+    "barcode": "N222c1",
+    "type": "Kontrollschacht",
+    "location": "Gehrner Weg",
+    "gps": {
+      "id": 111,
+      "lng": 8.200300303153567,
+      "lat": 50.08880913308228
+    },
+    "description": "",
+    "lovion_id": 5607
+  },
+  {
+    "id": 112,
+    "barcode": "N223c",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 112,
+      "lng": 8.198789676954787,
+      "lat": 50.088593855045346
+    },
+    "description": "Schacht soll Komplett Saniert werden?",
+    "lovion_id": 5621
+  },
+  {
+    "id": 113,
+    "barcode": "N225c",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 113,
+      "lng": 8.198534582778905,
+      "lat": 50.08839597405678
+    },
+    "description": "Schacht  ist über 100mm Rohre  Zwangsbelüftet",
+    "lovion_id": 5628
+  },
+  {
+    "id": 114,
+    "barcode": "N226c",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 114,
+      "lng": 8.19877585201272,
+      "lat": 50.087411165230776
+    },
+    "description": "Im Schacht ist ein Bodenablauf.",
+    "lovion_id": 5635
+  },
+  {
+    "id": 115,
+    "barcode": "N227c1",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 115,
+      "lng": 8.198287335008834,
+      "lat": 50.08772453238829
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Im Schacht ist ein Bodenablauf.",
+    "lovion_id": 5642
+  },
+  {
+    "id": 116,
+    "barcode": "S001",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 116,
+      "lng": 8.20123622554469,
+      "lat": 50.09086750526331
+    },
+    "description": "Am Heizwerk. Der Schachtdeckel ist mit Kies abgedeckt. Von Schacht N300 (Blickrichtung Heizwerk) 1,70 m nach rechts , 2,10 nach vorne 30 cm tief",
+    "lovion_id": 5664
+  },
+  {
+    "id": 117,
+    "barcode": "N200c",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 117,
+      "lng": 8.201351174579724,
+      "lat": 50.090396989043825
+    },
+    "description": "",
+    "lovion_id": 5668
+  },
+  {
+    "id": 118,
+    "barcode": "N215c",
+    "type": "Armaturenschacht",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 118,
+      "lng": 8.201554949755527,
+      "lat": 50.08948468793594
+    },
+    "description": "",
+    "lovion_id": 5710
+  },
+  {
+    "id": 119,
+    "barcode": "N220c",
+    "type": "Schauloch",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 119,
+      "lng": 8.200672067331542,
+      "lat": 50.08892621931876
+    },
+    "description": "",
+    "lovion_id": 5738
+  },
+  {
+    "id": 120,
+    "barcode": "S108",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 120,
+      "lng": 8.20064078161601,
+      "lat": 50.085527508609275
+    },
+    "description": "Entleerungen nicht vorhandenh",
+    "lovion_id": 5760
+  },
+  {
+    "id": 121,
+    "barcode": "N222c3",
+    "type": "Armaturenschacht",
+    "location": "Goerdelerstr.",
+    "gps": {
+      "id": 121,
+      "lng": 8.199830316673237,
+      "lat": 50.088030349530655
+    },
+    "description": "Vor der Begehung ca. 1,5 Std. belüften",
+    "lovion_id": 5767
+  },
+  {
+    "id": 122,
+    "barcode": "S000",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 122,
+      "lng": 8.201031337206276,
+      "lat": 50.090847581118126
+    },
+    "description": "am Heizwerk",
+    "lovion_id": 5785
+  },
+  {
+    "id": 123,
+    "barcode": "N229c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 123,
+      "lng": 8.19802632458909,
+      "lat": 50.088485121037095
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Es sind noch Steigeisen vorhanden :-( Familie Bremke",
+    "lovion_id": 6396
+  },
+  {
+    "id": 124,
+    "barcode": "N234c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 124,
+      "lng": 8.197108902954316,
+      "lat": 50.08838893359755
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Es sind noch Steigeisen vorhanden :-(",
+    "lovion_id": 6421
+  },
+  {
+    "id": 125,
+    "barcode": "N240c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 125,
+      "lng": 8.196637971708155,
+      "lat": 50.08833731011038
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Es sind noch Steigeisen vorhanden :-(",
+    "lovion_id": 6425
+  },
+  {
+    "id": 126,
+    "barcode": "N245c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 126,
+      "lng": 8.195995870151648,
+      "lat": 50.088099905070656
+    },
+    "description": "Schacht liegt rechts neben der Einfahrt zum Parkplatz",
+    "lovion_id": 6438
+  },
+  {
+    "id": 127,
+    "barcode": "N250c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 127,
+      "lng": 8.196803206178082,
+      "lat": 50.08750470745442
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Nur die FW-Leitung in Richtung Schacht N 251c wird Kabelüberwacht. (ca. 50m )",
+    "lovion_id": 6451
+  },
+  {
+    "id": 128,
+    "barcode": "N251c",
+    "type": "Kontrollschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 128,
+      "lng": 8.197428771484123,
+      "lat": 50.08757523915349
+    },
+    "description": "Seit der Reparatur 2006 sind keine Ventile im Schacht.",
+    "lovion_id": 6458
+  },
+  {
+    "id": 129,
+    "barcode": "N252c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 129,
+      "lng": 8.197842581331956,
+      "lat": 50.08761617106481
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Im Schacht ist ein Bodenablauf. 4 Messpunkte kurzgeschlossen",
+    "lovion_id": 6462
+  },
+  {
+    "id": 130,
+    "barcode": "S338",
+    "type": "Armaturenschacht",
+    "location": "Anne-Frank-Str.",
+    "gps": {
+      "id": 130,
+      "lng": 8.207924415313322,
+      "lat": 50.08376685353995
+    },
+    "description": "",
+    "lovion_id": 6959
+  },
+  {
+    "id": 131,
+    "barcode": "R016",
+    "type": "Schauloch",
+    "location": "Richard-Otto-Str.",
+    "gps": {
+      "id": 131,
+      "lng": 8.207957281661418,
+      "lat": 50.08773665139529
+    },
+    "description": "Schacht wurde im zuge einer Leckage (Q1 2020) zum Schauloch umgebaut",
+    "lovion_id": 6992
+  },
+  {
+    "id": 132,
+    "barcode": "N225a1",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 132,
+      "lng": 8.196524334740156,
+      "lat": 50.09359075882361
+    },
+    "description": "Für Zugang über Gartentor, wird der Schlüssel Nr. 21",
+    "lovion_id": 7104
+  },
+  {
+    "id": 133,
+    "barcode": "N3111",
+    "type": "Kontrollschacht",
+    "location": "Otto-Witte-Str.",
+    "gps": {
+      "id": 133,
+      "lng": 8.203273510663482,
+      "lat": 50.09235153012241
+    },
+    "description": "Schacht liegt auf dem Grundstück O.-Witte-Str- 120, neben Gartenhäuschen",
+    "lovion_id": 7378
+  },
+  {
+    "id": 134,
+    "barcode": "N3206",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Kaiser-Str.",
+    "gps": {
+      "id": 134,
+      "lng": 8.20399936666383,
+      "lat": 50.09144484392926
+    },
+    "description": "Auf dem Grundstück H.-Kaiser-Str. 7., Amaturen und Entlüftungen nicht im Lovion erfasst , Kanalanschluss im Schacht",
+    "lovion_id": 7391
+  },
+  {
+    "id": 135,
+    "barcode": "N243c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 135,
+      "lng": 8.19648050042544,
+      "lat": 50.08819653338626
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Kein Abstieg, da Amaturen fest, nur Sichtkontrolle",
+    "lovion_id": 16951
+  },
+  {
+    "id": 136,
+    "barcode": "N238c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 136,
+      "lng": 8.196691897707257,
+      "lat": 50.08821724815257
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Zugang durch Haus. z.Z. Frau Last Tel.: 460827, bitte vorher anmelden.",
+    "lovion_id": 16964
+  },
+  {
+    "id": 137,
+    "barcode": 527,
+    "type": "Armaturenschacht",
+    "location": "Mainzer Str.",
+    "gps": {
+      "id": 137,
+      "lng": 8.251660532638283,
+      "lat": 50.06412242496695
+    },
+    "description": "",
+    "lovion_id": 35487
+  },
+  {
+    "id": 138,
+    "barcode": 542,
+    "type": "Armaturenschacht",
+    "location": "Mainzer Str.",
+    "gps": {
+      "id": 138,
+      "lng": 8.25015856411244,
+      "lat": 50.06652461783045
+    },
+    "description": "Bei nächster Wartung (2022) neue Schachtdeckeldichtung montieren.",
+    "lovion_id": 35559
+  },
+  {
+    "id": 139,
+    "barcode": 545,
+    "type": "Armaturenschacht",
+    "location": "Gartenfeldstr.",
+    "gps": {
+      "id": 139,
+      "lng": 8.249048654822783,
+      "lat": 50.068044512257465
+    },
+    "description": "Halteverbot zur Bedienung und Wartung erforderlich.",
+    "lovion_id": 35918
+  },
+  {
+    "id": 140,
+    "barcode": 520,
+    "type": "Armaturenschacht",
+    "location": "Mainzer Str.",
+    "gps": {
+      "id": 140,
+      "lng": 8.252788540867837,
+      "lat": 50.06230042896453
+    },
+    "description": "",
+    "lovion_id": 36997
+  },
+  {
+    "id": 141,
+    "barcode": 549,
+    "type": "Kontrollschacht",
+    "location": "Gartenfeldstr.",
+    "gps": {
+      "id": 141,
+      "lng": 8.245985561457855,
+      "lat": 50.070696437717515
+    },
+    "description": "",
+    "lovion_id": 37046
+  },
+  {
+    "id": 142,
+    "barcode": "N253c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 142,
+      "lng": 8.194928672857744,
+      "lat": 50.08915525775775
+    },
+    "description": "2 Messdossen, Panisovit. Im Schacht ist ein Bodenablauf vorhanden.",
+    "lovion_id": 43024
+  },
+  {
+    "id": 143,
+    "barcode": 510,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 143,
+      "lng": 8.255039265627316,
+      "lat": 50.06141413313167
+    },
+    "description": "",
+    "lovion_id": 47934
+  },
+  {
+    "id": 144,
+    "barcode": 509,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 144,
+      "lng": 8.255085332335799,
+      "lat": 50.0613295875186
+    },
+    "description": "",
+    "lovion_id": 47961
+  },
+  {
+    "id": 145,
+    "barcode": 508,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 145,
+      "lng": 8.255426384976102,
+      "lat": 50.06069434201717
+    },
+    "description": "",
+    "lovion_id": 48003
+  },
+  {
+    "id": 146,
+    "barcode": 507,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 146,
+      "lng": 8.255517763175737,
+      "lat": 50.06051518121636
+    },
+    "description": "",
+    "lovion_id": 48014
+  },
+  {
+    "id": 147,
+    "barcode": 505,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 147,
+      "lng": 8.255885186904814,
+      "lat": 50.05982629178181
+    },
+    "description": "",
+    "lovion_id": 48799
+  },
+  {
+    "id": 148,
+    "barcode": 506,
+    "type": "Kontrollschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 148,
+      "lng": 8.255637343151339,
+      "lat": 50.060286697713195
+    },
+    "description": "",
+    "lovion_id": 48812
+  },
+  {
+    "id": 149,
+    "barcode": 1309,
+    "type": "Kontrollschacht",
+    "location": "Arizonastr.",
+    "gps": {
+      "id": 149,
+      "lng": 8.268279601049201,
+      "lat": 50.070639521667445
+    },
+    "description": "Leiter zum Einstieg ist mitzubringen. Es ist keine Steigleiter und Einstiegshilfe vorgesehen.",
+    "lovion_id": 113966
+  },
+  {
+    "id": 150,
+    "barcode": 1312,
+    "type": "Schauloch",
+    "location": "Arizonastr.",
+    "gps": {
+      "id": 150,
+      "lng": 8.26808117999335,
+      "lat": 50.07055478777504
+    },
+    "description": "Begleitkabelmuffe",
+    "lovion_id": 113994
+  },
+  {
+    "id": 151,
+    "barcode": 730,
+    "type": "Schauloch",
+    "location": "Fischerstr.",
+    "gps": {
+      "id": 151,
+      "lng": 8.240631687032991,
+      "lat": 50.06956040572219
+    },
+    "description": "",
+    "lovion_id": 198052
+  },
+  {
+    "id": 152,
+    "barcode": "S220",
+    "type": "Armaturenschacht",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 152,
+      "lng": 8.203815699295323,
+      "lat": 50.085010014798684
+    },
+    "description": "",
+    "lovion_id": 250352
+  },
+  {
+    "id": 153,
+    "barcode": "N310",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 153,
+      "lng": 8.200588817919776,
+      "lat": 50.09290654100876
+    },
+    "description": "",
+    "lovion_id": 252320
+  },
+  {
+    "id": 154,
+    "barcode": "N219b",
+    "type": "Armaturenschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 154,
+      "lng": 8.19783733694825,
+      "lat": 50.089659740490134
+    },
+    "description": "Ventil nicht Zugängig, Kein Dreibock und die Ösen des S.-Deckels sind weggerostet.",
+    "lovion_id": 252593
+  },
+  {
+    "id": 155,
+    "barcode": "N221c",
+    "type": "Armaturenschacht",
+    "location": "Goerdelerstr.",
+    "gps": {
+      "id": 155,
+      "lng": 8.201098553393171,
+      "lat": 50.08779052826503
+    },
+    "description": "Entlüftungen nicht im Lovion erfasst. Bei nächster Wartung Schacht auspumpen",
+    "lovion_id": 252682
+  },
+  {
+    "id": 156,
+    "barcode": "N244c",
+    "type": "Kontrollschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 156,
+      "lng": 8.196606194809865,
+      "lat": 50.08766847092058
+    },
+    "description": "",
+    "lovion_id": 252763
+  },
+  {
+    "id": 157,
+    "barcode": "S228",
+    "type": "Kontrollschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 157,
+      "lng": 8.204829916494017,
+      "lat": 50.08359608230416
+    },
+    "description": "",
+    "lovion_id": 253313
+  },
+  {
+    "id": 158,
+    "barcode": 1380,
+    "type": "Armaturenschacht",
+    "location": "Californiastr.",
+    "gps": {
+      "id": 158,
+      "lng": 8.266391083129768,
+      "lat": 50.07164499793913
+    },
+    "description": "Schachtdeckelheber wird benötigt, kann jedoch bei nasser Grünfläche nicht eingesetzt werden.",
+    "lovion_id": 267539
+  },
+  {
+    "id": 159,
+    "barcode": 1382,
+    "type": "Armaturenschacht",
+    "location": "Californiastr.",
+    "gps": {
+      "id": 159,
+      "lng": 8.266712269821197,
+      "lat": 50.071329347722255
+    },
+    "description": "Schachtdeckelheber wird benötigt, kann jedoch bei nasser Grünfläche nicht eingesetzt werden.",
+    "lovion_id": 267797
+  },
+  {
+    "id": 160,
+    "barcode": 1386,
+    "type": "Schauloch",
+    "location": "Arizonastr.",
+    "gps": {
+      "id": 160,
+      "lng": 8.267767829256428,
+      "lat": 50.070044291245
+    },
+    "description": "",
+    "lovion_id": 267969
+  },
+  {
+    "id": 161,
+    "barcode": 1399,
+    "type": "Armaturenschacht",
+    "location": "Arizonastr.",
+    "gps": {
+      "id": 161,
+      "lng": 8.268559063935301,
+      "lat": 50.06920666534817
+    },
+    "description": "",
+    "lovion_id": 267998
+  },
+  {
+    "id": 162,
+    "barcode": 1377,
+    "type": "Armaturenschacht",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 162,
+      "lng": 8.26173459881771,
+      "lat": 50.07221396486593
+    },
+    "description": "Schacht wurde stillgelegt.",
+    "lovion_id": 268037
+  },
+  {
+    "id": 163,
+    "barcode": 1383,
+    "type": "Armaturenschacht",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 163,
+      "lng": 8.26465410988912,
+      "lat": 50.07014214740741
+    },
+    "description": "",
+    "lovion_id": 268102
+  },
+  {
+    "id": 164,
+    "barcode": 1385,
+    "type": "Kontrollschacht",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 164,
+      "lng": 8.26666747192944,
+      "lat": 50.069248110566086
+    },
+    "description": "",
+    "lovion_id": 268166
+  },
+  {
+    "id": 165,
+    "barcode": 504,
+    "type": "Armaturenschacht",
+    "location": "Weidenbornstr.",
+    "gps": {
+      "id": 165,
+      "lng": 8.256154781924932,
+      "lat": 50.059333133287716
+    },
+    "description": "",
+    "lovion_id": 281783
+  },
+  {
+    "id": 166,
+    "barcode": 513,
+    "type": "Armaturenschacht",
+    "location": "Mainzer Str.",
+    "gps": {
+      "id": 166,
+      "lng": 8.254658416277495,
+      "lat": 50.05916814783364
+    },
+    "description": "",
+    "lovion_id": 281863
+  },
+  {
+    "id": 167,
+    "barcode": "N3103",
+    "type": "Armaturenschacht",
+    "location": "Moriz-Marxheimer-Str.",
+    "gps": {
+      "id": 167,
+      "lng": 8.202728911553635,
+      "lat": 50.093246622049946
+    },
+    "description": "",
+    "lovion_id": 284492
+  },
+  {
+    "id": 168,
+    "barcode": 1392,
+    "type": "Schauloch",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 168,
+      "lng": 8.260772379085907,
+      "lat": 50.071210079361286
+    },
+    "description": "Übergang von Wellflex auf Epogard",
+    "lovion_id": 285295
+  },
+  {
+    "id": 169,
+    "barcode": 1304,
+    "type": "Armaturenschacht",
+    "location": "Texasstr.",
+    "gps": {
+      "id": 169,
+      "lng": 8.270193777860289,
+      "lat": 50.07068151315523
+    },
+    "description": "Leiter zum Einstieg ist mitzubringen. Es ist keine Steigleiter und Einstiegshilfe vorgesehen.",
+    "lovion_id": 287124
+  },
+  {
+    "id": 170,
+    "barcode": 1379,
+    "type": "Armaturenschacht",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 170,
+      "lng": 8.263237723793768,
+      "lat": 50.071185113154826
+    },
+    "description": "",
+    "lovion_id": 287180
+  },
+  {
+    "id": 171,
+    "barcode": 1106,
+    "type": "Armaturenschacht",
+    "location": "Westfalenstr.",
+    "gps": {
+      "id": 171,
+      "lng": 8.27746806691434,
+      "lat": 50.09359584133332
+    },
+    "description": "",
+    "lovion_id": 294847
+  },
+  {
+    "id": 172,
+    "barcode": 1107,
+    "type": "Armaturenschacht",
+    "location": "Westfalenstr.",
+    "gps": {
+      "id": 172,
+      "lng": 8.275699492750192,
+      "lat": 50.094865058927866
+    },
+    "description": "",
+    "lovion_id": 294865
+  },
+  {
+    "id": 173,
+    "barcode": 1119,
+    "type": "Schauloch",
+    "location": "Westfalenstr.",
+    "gps": {
+      "id": 173,
+      "lng": 8.274286051967623,
+      "lat": 50.09425070464528
+    },
+    "description": "",
+    "lovion_id": 294883
+  },
+  {
+    "id": 174,
+    "barcode": 1133,
+    "type": "Kontrollschacht",
+    "location": "Rheinlandstr.",
+    "gps": {
+      "id": 174,
+      "lng": 8.270145473040504,
+      "lat": 50.09233625300569
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 294967
+  },
+  {
+    "id": 175,
+    "barcode": 1131,
+    "type": "Armaturenschacht",
+    "location": "Württembergstr.",
+    "gps": {
+      "id": 175,
+      "lng": 8.271073884844297,
+      "lat": 50.092931042337774
+    },
+    "description": "Privatgrundstück. Leiterprüfung. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 295043
+  },
+  {
+    "id": 176,
+    "barcode": 1132,
+    "type": "Armaturenschacht",
+    "location": "Hamburgstr.",
+    "gps": {
+      "id": 176,
+      "lng": 8.270351828561788,
+      "lat": 50.09291595213661
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 295061
+  },
+  {
+    "id": 177,
+    "barcode": 1134,
+    "type": "Armaturenschacht",
+    "location": "Hamburgstr.",
+    "gps": {
+      "id": 177,
+      "lng": 8.269284592076584,
+      "lat": 50.09386707783254
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 295107
+  },
+  {
+    "id": 178,
+    "barcode": 1108,
+    "type": "Armaturenschacht",
+    "location": "Westfalenstr.",
+    "gps": {
+      "id": 178,
+      "lng": 8.272456206300003,
+      "lat": 50.095108705431535
+    },
+    "description": "",
+    "lovion_id": 295165
+  },
+  {
+    "id": 179,
+    "barcode": 712,
+    "type": "Armaturenschacht",
+    "location": "Hölderlinstr.",
+    "gps": {
+      "id": 179,
+      "lng": 8.22831323557226,
+      "lat": 50.06741707040877
+    },
+    "description": "Zugang zum Schacht über LKA Herr Korn Tel.0611-8324121 sowie Bilfinger&Berger vor Ort Tel.0611-98709092",
+    "lovion_id": 304516
+  },
+  {
+    "id": 180,
+    "barcode": 710,
+    "type": "Armaturenschacht",
+    "location": "Hölderlinstr.",
+    "gps": {
+      "id": 180,
+      "lng": 8.227242833969695,
+      "lat": 50.06716793195651
+    },
+    "description": "Zugang zum Schacht über LKA Herr Korn Tel.0611-8324121 sowie Bilfinger&Berger vor Ort Tel.0611-98709092",
+    "lovion_id": 304558
+  },
+  {
+    "id": 181,
+    "barcode": 708,
+    "type": "Armaturenschacht",
+    "location": "Dostojewskistr.",
+    "gps": {
+      "id": 181,
+      "lng": 8.226475177647275,
+      "lat": 50.067186716276765
+    },
+    "description": "",
+    "lovion_id": 304636
+  },
+  {
+    "id": 182,
+    "barcode": 707,
+    "type": "Armaturenschacht",
+    "location": "Hölderlinstr.",
+    "gps": {
+      "id": 182,
+      "lng": 8.227636894330235,
+      "lat": 50.066409371097535
+    },
+    "description": "",
+    "lovion_id": 304688
+  },
+  {
+    "id": 183,
+    "barcode": 1291,
+    "type": "Schauloch",
+    "location": "US Flugplatz Erbenheim",
+    "gps": {
+      "id": 183,
+      "lng": 8.326108003167628,
+      "lat": 50.04356887620524
+    },
+    "description": "",
+    "lovion_id": 308168
+  },
+  {
+    "id": 184,
+    "barcode": "N216c",
+    "type": "Armaturenschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 184,
+      "lng": 8.20136680285503,
+      "lat": 50.08930481657837
+    },
+    "description": "Die FW-leitung in Rich. Turnhalle ist nicht mehr in Betrieb, nach den Kugelhähen sind Blindflansche gesetzt worden.",
+    "lovion_id": 316670
+  },
+  {
+    "id": 185,
+    "barcode": "N227c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 185,
+      "lng": 8.19818887302594,
+      "lat": 50.088145143678815
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Schacht muss vor Begehung ausgepumt werden.Schacht liegt auf dem Grundstück Werner-Hilpert-Str. 2",
+    "lovion_id": 316710
+  },
+  {
+    "id": 186,
+    "barcode": "N218b",
+    "type": "Armaturenschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 186,
+      "lng": 8.197595302020975,
+      "lat": 50.090030921487546
+    },
+    "description": "",
+    "lovion_id": 316791
+  },
+  {
+    "id": 187,
+    "barcode": "N3202",
+    "type": "Armaturenschacht",
+    "location": "Hans-Buttersack-Str.",
+    "gps": {
+      "id": 187,
+      "lng": 8.204824949770714,
+      "lat": 50.090928818852326
+    },
+    "description": "Bei Wartung Sichtkontrolle durchführen. Absteigen in den Schacht nicht möglich. Siehe Bilder",
+    "lovion_id": 316827
+  },
+  {
+    "id": 188,
+    "barcode": "N235c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 188,
+      "lng": 8.197052145291286,
+      "lat": 50.08860238408011
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Schacht liegt  im Rosenbeet und ist mit Kieselsteine abgedeckt. Es sind noch Steigeisen vorhanden :-(",
+    "lovion_id": 316846
+  },
+  {
+    "id": 189,
+    "barcode": "N3016",
+    "type": "Armaturenschacht",
+    "location": "Eugen-Dengel-Str.",
+    "gps": {
+      "id": 189,
+      "lng": 8.201809221815992,
+      "lat": 50.0935548789395
+    },
+    "description": "",
+    "lovion_id": 316865
+  },
+  {
+    "id": 190,
+    "barcode": "N3015",
+    "type": "Schauloch",
+    "location": "Eugen-Dengel-Str.",
+    "gps": {
+      "id": 190,
+      "lng": 8.201515992952555,
+      "lat": 50.09352391068371
+    },
+    "description": "Schauloch",
+    "lovion_id": 316884
+  },
+  {
+    "id": 191,
+    "barcode": "S012",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 191,
+      "lng": 8.205148571274325,
+      "lat": 50.087652230074966
+    },
+    "description": "Schacht in Grünfläche zwischen Stichweg / Bürgersteig. Unter einem Trampelpfad.",
+    "lovion_id": 316939
+  },
+  {
+    "id": 192,
+    "barcode": "R011a",
+    "type": "Kontrollschacht",
+    "location": "Otto-Haese-Str.",
+    "gps": {
+      "id": 192,
+      "lng": 8.205942367161164,
+      "lat": 50.087561218822984
+    },
+    "description": "",
+    "lovion_id": 316963
+  },
+  {
+    "id": 193,
+    "barcode": "R015",
+    "type": "Armaturenschacht",
+    "location": "Willy-Borngässer-Str.",
+    "gps": {
+      "id": 193,
+      "lng": 8.207020508614804,
+      "lat": 50.08776156036042
+    },
+    "description": "Schacht liegt auf dem Grundstück der Eheleute Warning WB02. (Tel.: z.Z. 0611 4689283)",
+    "lovion_id": 317026
+  },
+  {
+    "id": 194,
+    "barcode": "R006",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 194,
+      "lng": 8.207274620869041,
+      "lat": 50.08670773840354
+    },
+    "description": "",
+    "lovion_id": 317046
+  },
+  {
+    "id": 195,
+    "barcode": "R008",
+    "type": "Armaturenschacht",
+    "location": "Richard-Otto-Str.",
+    "gps": {
+      "id": 195,
+      "lng": 8.208591999224735,
+      "lat": 50.08668001272251
+    },
+    "description": "ca. 2 m Rohrleitung DN60 , 5 Bögen müssen noch isoliert werden",
+    "lovion_id": 317085
+  },
+  {
+    "id": 196,
+    "barcode": "R003",
+    "type": "Armaturenschacht",
+    "location": "Otto-Haese-Str.",
+    "gps": {
+      "id": 196,
+      "lng": 8.2062487627349,
+      "lat": 50.0870384202439
+    },
+    "description": "",
+    "lovion_id": 317225
+  },
+  {
+    "id": 197,
+    "barcode": "R005",
+    "type": "Schauloch",
+    "location": "Willy-Borngässer-Str.",
+    "gps": {
+      "id": 197,
+      "lng": 8.207235911823823,
+      "lat": 50.08684936451662
+    },
+    "description": "",
+    "lovion_id": 317263
+  },
+  {
+    "id": 198,
+    "barcode": "N3401",
+    "type": "Schauloch",
+    "location": "Konrad-Arndt-Str.",
+    "gps": {
+      "id": 198,
+      "lng": 8.205203142257934,
+      "lat": 50.088595721684726
+    },
+    "description": "Schauloch liegt auf dem Grundstück Konrad-Arndt-Str. 15 am Zaun Otto-Wels-Str.",
+    "lovion_id": 317335
+  },
+  {
+    "id": 199,
+    "barcode": "N3400",
+    "type": "Schauloch",
+    "location": "Konrad-Arndt-Str.",
+    "gps": {
+      "id": 199,
+      "lng": 8.205117702017688,
+      "lat": 50.088941291382284
+    },
+    "description": "Liegt auf dem Grundstück Konrad-Arndt-Str. 3, am Zaun Otto-Wels-Str. im Zugang zum Grundstück. Deckel mit Pilz",
+    "lovion_id": 317353
+  },
+  {
+    "id": 200,
+    "barcode": "S009",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 200,
+      "lng": 8.204556706237245,
+      "lat": 50.088527908586165
+    },
+    "description": "",
+    "lovion_id": 317375
+  },
+  {
+    "id": 201,
+    "barcode": "S221",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 201,
+      "lng": 8.20406732399097,
+      "lat": 50.082764246780926
+    },
+    "description": "",
+    "lovion_id": 318034
+  },
+  {
+    "id": 202,
+    "barcode": "S222",
+    "type": "Schauloch",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 202,
+      "lng": 8.2040165663013,
+      "lat": 50.08210153443449
+    },
+    "description": "",
+    "lovion_id": 318052
+  },
+  {
+    "id": 203,
+    "barcode": "S223",
+    "type": "Kontrollschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 203,
+      "lng": 8.204038372481932,
+      "lat": 50.081900140152996
+    },
+    "description": "Entlüftungen und Entleerungen nicht im Lovion erfasst. Muss mehrmals Angefahren werden, Schacht liegt am Anfang einer Straßeneinmündung und ist öfters zugeparkt.",
+    "lovion_id": 318070
+  },
+  {
+    "id": 204,
+    "barcode": "S224",
+    "type": "Schauloch",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 204,
+      "lng": 8.204461983185036,
+      "lat": 50.081639751216834
+    },
+    "description": "Schauloch nicht vorhanden, Objekt löschen.Ist seit dem Neubau nicht auffindbar, wurde schon mehrmals Moniert.",
+    "lovion_id": 318094
+  },
+  {
+    "id": 205,
+    "barcode": "S225",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 205,
+      "lng": 8.204516119364278,
+      "lat": 50.08140610076425
+    },
+    "description": "Schacht wurde zurückgebaut, nur noch Erdeinbauamaturen vorhanden.Nach Neubau des Kindergartens wurde ein falscher Schachtdeckel Montiert, Deckel ist nicht Tagwasserdicht.",
+    "lovion_id": 318123
+  },
+  {
+    "id": 206,
+    "barcode": "N251c2",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 206,
+      "lng": 8.197463769740226,
+      "lat": 50.08757053435791
+    },
+    "description": "Vor betreten ausreichend Lüften, 2 Messdosen sind kurzgeschlossen",
+    "lovion_id": 318295
+  },
+  {
+    "id": 207,
+    "barcode": "S109",
+    "type": "Schauloch",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 207,
+      "lng": 8.2012980395978,
+      "lat": 50.08589354015054
+    },
+    "description": "",
+    "lovion_id": 318316
+  },
+  {
+    "id": 208,
+    "barcode": "S107a",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 208,
+      "lng": 8.20016310504847,
+      "lat": 50.08566931543514
+    },
+    "description": "",
+    "lovion_id": 318334
+  },
+  {
+    "id": 209,
+    "barcode": "N249c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 209,
+      "lng": 8.196065582275853,
+      "lat": 50.08779001590759
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Dreibock aufstellen nicht möglich, da eine Hecke im Weg ist.",
+    "lovion_id": 318443
+  },
+  {
+    "id": 210,
+    "barcode": "N247c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 210,
+      "lng": 8.195755393403608,
+      "lat": 50.088171702977775
+    },
+    "description": "Einstieg nicht möglich. Aus Privatgelände überwachsen.Entlüftungen sind im Lovion falsch angeordnet. Entl. sind im abgehende Strang (WeHi 67) hinter den Entleerungen.",
+    "lovion_id": 318461
+  },
+  {
+    "id": 211,
+    "barcode": "N107",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 211,
+      "lng": 8.196987537536668,
+      "lat": 50.09058603335683
+    },
+    "description": "",
+    "lovion_id": 318685
+  },
+  {
+    "id": 212,
+    "barcode": "N217b",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 212,
+      "lng": 8.197046508021476,
+      "lat": 50.09033653206455
+    },
+    "description": "",
+    "lovion_id": 318703
+  },
+  {
+    "id": 213,
+    "barcode": "N210c",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 213,
+      "lng": 8.199609284052098,
+      "lat": 50.0908337115219
+    },
+    "description": "Ein Blumentopf steht auf dem Schauloch.  Graf von Galen 13 Frau Seel.",
+    "lovion_id": 318747
+  },
+  {
+    "id": 214,
+    "barcode": "N209c",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 214,
+      "lng": 8.199696129219037,
+      "lat": 50.0904869593756
+    },
+    "description": "",
+    "lovion_id": 318766
+  },
+  {
+    "id": 215,
+    "barcode": "N208c",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 215,
+      "lng": 8.199945936582921,
+      "lat": 50.0905091831339
+    },
+    "description": "",
+    "lovion_id": 318784
+  },
+  {
+    "id": 216,
+    "barcode": "S003",
+    "type": "Schauloch",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 216,
+      "lng": 8.201494787265156,
+      "lat": 50.08979099433062
+    },
+    "description": "",
+    "lovion_id": 318892
+  },
+  {
+    "id": 217,
+    "barcode": "N201c",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 217,
+      "lng": 8.201371560434403,
+      "lat": 50.09035095374566
+    },
+    "description": "",
+    "lovion_id": 318928
+  },
+  {
+    "id": 218,
+    "barcode": "N3301",
+    "type": "Schauloch",
+    "location": "Hans-Buttersack-Str.",
+    "gps": {
+      "id": 218,
+      "lng": 8.204844216805421,
+      "lat": 50.08982151160416
+    },
+    "description": "Schacht ist nicht zugängig. Liegt im Garten von Konrad-Arndt-Str. 16, Zugang über Otto-wels-str. nicht möglich. Kundentermin erforderlich.",
+    "lovion_id": 318946
+  },
+  {
+    "id": 219,
+    "barcode": "N3300",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 219,
+      "lng": 8.204749986173617,
+      "lat": 50.089983726205546
+    },
+    "description": "Schacht ist nicht zugängig. Liegt in der Hecke. Garten  Hans Buttersack 13. Lage :linker Türpfosten 2,30 m geradeaus",
+    "lovion_id": 318964
+  },
+  {
+    "id": 220,
+    "barcode": "N371",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 220,
+      "lng": 8.204501093655836,
+      "lat": 50.089929918401154
+    },
+    "description": "Schacht liegt auf der Wiese, neben dem Gehweg. Pro Strang eine Entlüftung und eine Entleerung",
+    "lovion_id": 318982
+  },
+  {
+    "id": 221,
+    "barcode": "N3201",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 221,
+      "lng": 8.204123826298467,
+      "lat": 50.090862800914906
+    },
+    "description": "Schauloch in Garten von Hans-Buttersack 10, Deckel mit Pilz",
+    "lovion_id": 319003
+  },
+  {
+    "id": 222,
+    "barcode": "N3110",
+    "type": "Kontrollschacht",
+    "location": "Otto-Witte-Str.",
+    "gps": {
+      "id": 222,
+      "lng": 8.203701086506818,
+      "lat": 50.09239594424114
+    },
+    "description": "Schacht ist nicht auffindbar.",
+    "lovion_id": 319021
+  },
+  {
+    "id": 223,
+    "barcode": "N3106",
+    "type": "Armaturenschacht",
+    "location": "Moriz-Marxheimer-Str.",
+    "gps": {
+      "id": 223,
+      "lng": 8.202823949215507,
+      "lat": 50.09338880071049
+    },
+    "description": "Schacht liegt links neber Eingangstür. Im Schacht sind Entleerungen verbaut, in Lovion nicht erfasst.",
+    "lovion_id": 319086
+  },
+  {
+    "id": 224,
+    "barcode": "S330",
+    "type": "Armaturenschacht",
+    "location": "Ernst-von-Harnack-Str.",
+    "gps": {
+      "id": 224,
+      "lng": 8.206547871855653,
+      "lat": 50.083788168083224
+    },
+    "description": "",
+    "lovion_id": 319203
+  },
+  {
+    "id": 225,
+    "barcode": "S339",
+    "type": "Schauloch",
+    "location": "Goerdelerstr.",
+    "gps": {
+      "id": 225,
+      "lng": 8.2078789491451,
+      "lat": 50.084027411927835
+    },
+    "description": "",
+    "lovion_id": 319260
+  },
+  {
+    "id": 226,
+    "barcode": "N227a",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 226,
+      "lng": 8.196202464442987,
+      "lat": 50.093651592681745
+    },
+    "description": "Schauloch im Lovion an falscher Position angelegt. Screenshot im Anhang Aufgabe 2020. Für Zugang über Gartentor, wird der Schlüssel Nr. 21",
+    "lovion_id": 319278
+  },
+  {
+    "id": 227,
+    "barcode": "N226a",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 227,
+      "lng": 8.196465457975536,
+      "lat": 50.09353192140774
+    },
+    "description": "Für Zugang über Gartentor, wird der Schlüssel Nr. 21",
+    "lovion_id": 319296
+  },
+  {
+    "id": 228,
+    "barcode": "N138",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 228,
+      "lng": 8.195878284393904,
+      "lat": 50.092513784208016
+    },
+    "description": "",
+    "lovion_id": 319368
+  },
+  {
+    "id": 229,
+    "barcode": "N137",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 229,
+      "lng": 8.196226036423434,
+      "lat": 50.09233152168765
+    },
+    "description": "Schauloch in Garten von Haus 18",
+    "lovion_id": 319386
+  },
+  {
+    "id": 230,
+    "barcode": "N136",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 230,
+      "lng": 8.196303397365972,
+      "lat": 50.09187849102845
+    },
+    "description": "Zum Öffnen Imbus 8mm erforderlich",
+    "lovion_id": 319404
+  },
+  {
+    "id": 231,
+    "barcode": "N135",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 231,
+      "lng": 8.196343522352585,
+      "lat": 50.0917095544362
+    },
+    "description": "",
+    "lovion_id": 319425
+  },
+  {
+    "id": 232,
+    "barcode": "N134",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 232,
+      "lng": 8.196266449254315,
+      "lat": 50.091700773325044
+    },
+    "description": "",
+    "lovion_id": 319443
+  },
+  {
+    "id": 233,
+    "barcode": "N131",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 233,
+      "lng": 8.195999959465713,
+      "lat": 50.09142744220949
+    },
+    "description": "",
+    "lovion_id": 319464
+  },
+  {
+    "id": 234,
+    "barcode": "N132",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 234,
+      "lng": 8.195840366930154,
+      "lat": 50.09158793776278
+    },
+    "description": "zugewachsen, schwer zugängig.",
+    "lovion_id": 319485
+  },
+  {
+    "id": 235,
+    "barcode": "N241a",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 235,
+      "lng": 8.197444280016228,
+      "lat": 50.092297097379614
+    },
+    "description": "Schauloch wurde nach Sanierung neu Angelegt. Hier ist der FW-Kanal zu Ende, Richt. H-B 28-42 ist KMR Rohr Verlegt worden. Aus den Stationen kann die FW-Leitung Überwacht werden.",
+    "lovion_id": 319545
+  },
+  {
+    "id": 236,
+    "barcode": "N208b",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 236,
+      "lng": 8.19778296943796,
+      "lat": 50.09150790198413
+    },
+    "description": "Schauloch in Garten von Haus 27, Frau Christa König.",
+    "lovion_id": 319581
+  },
+  {
+    "id": 237,
+    "barcode": "N207b",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 237,
+      "lng": 8.19786603285478,
+      "lat": 50.09115490568823
+    },
+    "description": "",
+    "lovion_id": 319603
+  },
+  {
+    "id": 238,
+    "barcode": "N205b",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 238,
+      "lng": 8.198387718428576,
+      "lat": 50.09109431832495
+    },
+    "description": "Zugang mit Schlüssel nr. 17 Altenwohnanlage",
+    "lovion_id": 319621
+  },
+  {
+    "id": 239,
+    "barcode": "N203b",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 239,
+      "lng": 8.198449665662572,
+      "lat": 50.091163370764804
+    },
+    "description": "",
+    "lovion_id": 319639
+  },
+  {
+    "id": 240,
+    "barcode": "N202b",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 240,
+      "lng": 8.198372115774339,
+      "lat": 50.09149828699409
+    },
+    "description": "",
+    "lovion_id": 319657
+  },
+  {
+    "id": 241,
+    "barcode": "N201b",
+    "type": "Schauloch",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 241,
+      "lng": 8.198436648113615,
+      "lat": 50.09150668331839
+    },
+    "description": "",
+    "lovion_id": 319675
+  },
+  {
+    "id": 242,
+    "barcode": "N216a",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 242,
+      "lng": 8.199016526822064,
+      "lat": 50.09221907607938
+    },
+    "description": "Schauloch liegt vor der 2. Garage, Graf-von-Galen-Str. 46/52.",
+    "lovion_id": 319714
+  },
+  {
+    "id": 243,
+    "barcode": "N217a",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 243,
+      "lng": 8.198563575552246,
+      "lat": 50.09217339473291
+    },
+    "description": "",
+    "lovion_id": 319735
+  },
+  {
+    "id": 244,
+    "barcode": "N217a1",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 244,
+      "lng": 8.198574714967963,
+      "lat": 50.09212118463539
+    },
+    "description": "",
+    "lovion_id": 319756
+  },
+  {
+    "id": 245,
+    "barcode": "V004",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 245,
+      "lng": 8.199463619271423,
+      "lat": 50.09181173819592
+    },
+    "description": "Schacht liegt auf der Wiese, im Buskreisel.",
+    "lovion_id": 319774
+  },
+  {
+    "id": 246,
+    "barcode": "V003",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 246,
+      "lng": 8.199736730754596,
+      "lat": 50.091800854030645
+    },
+    "description": "Schacht liegt in der Hecke.",
+    "lovion_id": 319795
+  },
+  {
+    "id": 247,
+    "barcode": "S114",
+    "type": "Armaturenschacht",
+    "location": "Carl-von-Ossietzky-Str.",
+    "gps": {
+      "id": 247,
+      "lng": 8.199738109224995,
+      "lat": 50.086354788450876
+    },
+    "description": "Schacht nicht begehbar, Einstieg zu klein.",
+    "lovion_id": 324397
+  },
+  {
+    "id": 248,
+    "barcode": "N202c",
+    "type": "Armaturenschacht",
+    "location": "Klosterweg",
+    "gps": {
+      "id": 248,
+      "lng": 8.2014396732888,
+      "lat": 50.09003825787913
+    },
+    "description": "",
+    "lovion_id": 328998
+  },
+  {
+    "id": 249,
+    "barcode": "N232c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 249,
+      "lng": 8.197400686299956,
+      "lat": 50.08829892384258
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Der FW-Kanal ist mit einer Hecke Überwachsen wurde schon 1990 gemeldet, zugang aber möglich",
+    "lovion_id": 329717
+  },
+  {
+    "id": 250,
+    "barcode": 403,
+    "type": "Armaturenschacht",
+    "location": "Siegfriedring",
+    "gps": {
+      "id": 250,
+      "lng": 8.261305941173115,
+      "lat": 50.059046905897105
+    },
+    "description": "",
+    "lovion_id": 339958
+  },
+  {
+    "id": 251,
+    "barcode": "N300",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 251,
+      "lng": 8.201290627110374,
+      "lat": 50.09085288643897
+    },
+    "description": "am Heizwerk",
+    "lovion_id": 396579
+  },
+  {
+    "id": 252,
+    "barcode": "N3002",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 252,
+      "lng": 8.200118510930215,
+      "lat": 50.09374882444696
+    },
+    "description": "in der Schachtdecke sind Moniereisen sichtbar. Entleerungen und Entlüftungen sind nicht im Lovion erfasst, Entlüftung ist sehr stark verrostet, Dreibein stellen ist möglich",
+    "lovion_id": 399171
+  },
+  {
+    "id": 253,
+    "barcode": "V001",
+    "type": "Kontrollschacht",
+    "location": "Graf-von-Galen-Str.",
+    "gps": {
+      "id": 253,
+      "lng": 8.200182279462215,
+      "lat": 50.09113499980067
+    },
+    "description": "Schacht liegt auf der Wiese.",
+    "lovion_id": 415425
+  },
+  {
+    "id": 254,
+    "barcode": "N301",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 254,
+      "lng": 8.201168015529086,
+      "lat": 50.09134903239349
+    },
+    "description": "Schacht wurde 2005 Saniert",
+    "lovion_id": 415766
+  },
+  {
+    "id": 255,
+    "barcode": "N302",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 255,
+      "lng": 8.201062067717315,
+      "lat": 50.09165041846761
+    },
+    "description": "Schachtösen abgerostet",
+    "lovion_id": 416382
+  },
+  {
+    "id": 256,
+    "barcode": "N303",
+    "type": "Kontrollschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 256,
+      "lng": 8.200933414443375,
+      "lat": 50.09219098019577
+    },
+    "description": "Dehnungsbogen",
+    "lovion_id": 416398
+  },
+  {
+    "id": 257,
+    "barcode": "S020",
+    "type": "Schauloch",
+    "location": "Ernst-von-Harnack-Str.",
+    "gps": {
+      "id": 257,
+      "lng": 8.20595600798493,
+      "lat": 50.08393511383247
+    },
+    "description": "",
+    "lovion_id": 433962
+  },
+  {
+    "id": 258,
+    "barcode": "S005",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 258,
+      "lng": 8.201342386274275,
+      "lat": 50.08931498729077
+    },
+    "description": "",
+    "lovion_id": 596189
+  },
+  {
+    "id": 259,
+    "barcode": "N248c",
+    "type": "Armaturenschacht",
+    "location": "Werner-Hilpert-Str.",
+    "gps": {
+      "id": 259,
+      "lng": 8.195514616681628,
+      "lat": 50.08813862293395
+    },
+    "description": "Für Kontrolle Termin mit Kunden vereinbaren. Schacht muss vor Begehung ausgepumt werden.2 Messdosen Panasovit, VL und RL im Lovion verdreht",
+    "lovion_id": 605556
+  },
+  {
+    "id": 260,
+    "barcode": 425,
+    "type": "Kontrollschacht",
+    "location": "Kriemhildenstr.",
+    "gps": {
+      "id": 260,
+      "lng": 8.265077772959067,
+      "lat": 50.05672399318938
+    },
+    "description": "Schacht mit Abstieg über Steigschutzeinrichtung.",
+    "lovion_id": 607519
+  },
+  {
+    "id": 261,
+    "barcode": 428,
+    "type": "Armaturenschacht",
+    "location": "Kettenlache",
+    "gps": {
+      "id": 261,
+      "lng": 8.264096356176855,
+      "lat": 50.05484753372629
+    },
+    "description": "Schacht mit Abstieg über Steigschutzeinrichtung.",
+    "lovion_id": 608234
+  },
+  {
+    "id": 262,
+    "barcode": 429,
+    "type": "Armaturenschacht",
+    "location": "Kettenlache",
+    "gps": {
+      "id": 262,
+      "lng": 8.26383850044644,
+      "lat": 50.0531104602177
+    },
+    "description": "Schacht mit Abstieg über Steigschutzeinrichtung.",
+    "lovion_id": 614210
+  },
+  {
+    "id": 263,
+    "barcode": 1141,
+    "type": "Schauloch",
+    "location": "Hamburgstr.",
+    "gps": {
+      "id": 263,
+      "lng": 8.271099057142841,
+      "lat": 50.09303520307998
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 643258
+  },
+  {
+    "id": 264,
+    "barcode": 161,
+    "type": "Armaturenschacht",
+    "location": "Oestricher Str.",
+    "gps": {
+      "id": 264,
+      "lng": 8.22285003799161,
+      "lat": 50.075755619529346
+    },
+    "description": "Zur Begehung muss eine Leiter mitgebracht werden.",
+    "lovion_id": 663703
+  },
+  {
+    "id": 265,
+    "barcode": "N111",
+    "type": "Kontrollschacht",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 265,
+      "lng": 8.196734933273842,
+      "lat": 50.09082400923499
+    },
+    "description": "",
+    "lovion_id": 667981
+  },
+  {
+    "id": 266,
+    "barcode": "N325",
+    "type": "Schauloch",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 266,
+      "lng": 8.202274471103237,
+      "lat": 50.09195345952397
+    },
+    "description": "",
+    "lovion_id": 701585
+  },
+  {
+    "id": 267,
+    "barcode": "N326",
+    "type": "Armaturenschacht",
+    "location": "Otto-Wels-Str.",
+    "gps": {
+      "id": 267,
+      "lng": 8.202384380626714,
+      "lat": 50.091964638806694
+    },
+    "description": "seitlich Haus Otto-Wels-Str. 98, in der Hecke. Der Schachtdeckel ist defekt und sollte erneuert werden.",
+    "lovion_id": 702134
+  },
+  {
+    "id": 268,
+    "barcode": 1331,
+    "type": "Schauloch",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 268,
+      "lng": 8.264523472054073,
+      "lat": 50.06978551420008
+    },
+    "description": "",
+    "lovion_id": 717668
+  },
+  {
+    "id": 269,
+    "barcode": 1140,
+    "type": "Schauloch",
+    "location": "Hamburgstr.",
+    "gps": {
+      "id": 269,
+      "lng": 8.271513121614403,
+      "lat": 50.09210099189908
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 717948
+  },
+  {
+    "id": 270,
+    "barcode": 1375,
+    "type": "Armaturenschacht",
+    "location": "Washingtonstr.",
+    "gps": {
+      "id": 270,
+      "lng": 8.26680866664068,
+      "lat": 50.06922123326473
+    },
+    "description": "Einstieg nach ca. 20 min Belüften begehbar.",
+    "lovion_id": 731144
+  },
+  {
+    "id": 271,
+    "barcode": "N108",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 271,
+      "lng": 8.197343681507464,
+      "lat": 50.090369378232175
+    },
+    "description": "",
+    "lovion_id": 731273
+  },
+  {
+    "id": 272,
+    "barcode": "N216b",
+    "type": "Schauloch",
+    "location": "Hermann-Brill-Str.",
+    "gps": {
+      "id": 272,
+      "lng": 8.197382406546277,
+      "lat": 50.09031325315727
+    },
+    "description": "",
+    "lovion_id": 731290
+  },
+  {
+    "id": 273,
+    "barcode": "N213c",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 273,
+      "lng": 8.201503783899124,
+      "lat": 50.08979179372313
+    },
+    "description": "",
+    "lovion_id": 731330
+  },
+  {
+    "id": 274,
+    "barcode": "N214c",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 274,
+      "lng": 8.201517282909034,
+      "lat": 50.089752996222074
+    },
+    "description": "",
+    "lovion_id": 731350
+  },
+  {
+    "id": 275,
+    "barcode": 1290,
+    "type": "Kontrollschacht",
+    "location": "US Flugplatz Erbenheim",
+    "gps": {
+      "id": 275,
+      "lng": 8.325756519574686,
+      "lat": 50.04345593768118
+    },
+    "description": "Sichtschacht ohne Abstieg. Keine Sanierung notwendig.",
+    "lovion_id": 733224
+  },
+  {
+    "id": 276,
+    "barcode": "R011",
+    "type": "Armaturenschacht",
+    "location": "Otto-Haese-Str.",
+    "gps": {
+      "id": 276,
+      "lng": 8.206178073344654,
+      "lat": 50.087378938044495
+    },
+    "description": "",
+    "lovion_id": 772110
+  },
+  {
+    "id": 277,
+    "barcode": "S336",
+    "type": "Kontrollschacht",
+    "location": "Ernst-von-Harnack-Str.",
+    "gps": {
+      "id": 277,
+      "lng": 8.207074360882073,
+      "lat": 50.08382826328218
+    },
+    "description": "",
+    "lovion_id": 808324
+  },
+  {
+    "id": 278,
+    "barcode": 202,
+    "type": "Armaturenschacht",
+    "location": "Straßenmühlweg",
+    "gps": {
+      "id": 278,
+      "lng": 8.208382852603231,
+      "lat": 50.06744310141444
+    },
+    "description": "Wartung nur unter Verwendung des Verkehrszeichenplan 12-2018",
+    "lovion_id": 829446
+  },
+  {
+    "id": 279,
+    "barcode": 203,
+    "type": "Armaturenschacht",
+    "location": "Straßenmühlweg",
+    "gps": {
+      "id": 279,
+      "lng": 8.208400035226164,
+      "lat": 50.06744167160834
+    },
+    "description": "Wartung nur unter Verwendung des Verkehrszeichenplan 12-2018",
+    "lovion_id": 829458
+  },
+  {
+    "id": 280,
+    "barcode": 1136,
+    "type": "Kontrollschacht",
+    "location": "Hamburgstr.",
+    "gps": {
+      "id": 280,
+      "lng": 8.269270852469223,
+      "lat": 50.09461225626564
+    },
+    "description": "Privatgrundstück. Terminvereinbarung zur Wartung über Betriebsbüro.",
+    "lovion_id": 838765
+  },
+  {
+    "id": 281,
+    "barcode": "S006",
+    "type": "Kontrollschacht",
+    "location": "Geschwister-Scholl-Str.",
+    "gps": {
+      "id": 281,
+      "lng": 8.202065542524359,
+      "lat": 50.08900429511351
+    },
+    "description": "",
+    "lovion_id": 839981
+  },
+  {
+    "id": 282,
+    "barcode": "N3402",
+    "type": "Schauloch",
+    "location": "Konrad-Arndt-Str.",
+    "gps": {
+      "id": 282,
+      "lng": 8.205761025773397,
+      "lat": 50.08864124069776
+    },
+    "description": "",
+    "lovion_id": 920986
+  },
+  {
+    "id": 283,
+    "barcode": "S999",
+    "type": "Armaturenschacht",
+    "location": "US Flugplatz Erbenheim",
+    "gps": {
+      "id": 283,
+      "lng": 8.316712880313354,
+      "lat": 50.052633466866354
+    },
+    "description": "",
+    "lovion_id": 971344
+  }
+]
