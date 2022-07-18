@@ -9,7 +9,6 @@ const { store } = useStore();
 
 <template>
   <TheTopBar />
-
   <main class="main">
     <EmptyView v-if="!store.allFileHandles.length" />
     <TheImageList v-else />

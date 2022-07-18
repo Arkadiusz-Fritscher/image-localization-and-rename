@@ -42,7 +42,10 @@ defineProps({
   <figure class="card" ref="card" :data-id="data.id">
     <img :src="data.url" :alt="data.data?.barcode || ''" draggable="false" />
     <figcaption class="text-xs">
-      <span>Datum: </span>{{ data.date?.replace("-", ".") }}
+      <ul>
+        <li><span>Datum: </span>{{ data.date?.replace("-", ".") }}</li>
+        <li><span>Dateiname: </span> {{ data.file.name }}</li>
+      </ul>
     </figcaption>
   </figure>
 </template>

@@ -8,6 +8,7 @@ button,
   font-size: var(--text-sm);
   font-weight: 500;
   cursor: pointer;
+  text-align: center;
 }
 
 button:not(:disabled):hover,
@@ -21,6 +22,19 @@ button:disabled,
   border: 1px solid var(--color-gray-200);
   color: var(--color-gray-200);
   cursor: not-allowed;
+}
+
+input,
+.input {
+  background-color: var(--color-gray-100);
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--color-gray-300);
+}
+
+label,
+.label {
+  font-size: var(--text-sm);
+  color: var(--color-gray-300);
 }
 
 /* --- TYPOGRAPHY --- */

@@ -1,4 +1,4 @@
-import { reactive, readonly } from "vue";
+import { reactive, readonly, watch } from "vue";
 
 const store = reactive({
   allFileHandles: [],
@@ -14,7 +14,12 @@ export default function useStore() {
   function reset() {
     store.allFileHandles = [];
     store.files = [];
+    store.isLoadingFiles = false;
   }
 
-  return { store: store, set, reset };
+  // watch(store.files, () =>
+  //   store.files.sort((a, b) => a.file.name - b.file.name)
+  // );
+
+  return { store, set, reset };
 }
